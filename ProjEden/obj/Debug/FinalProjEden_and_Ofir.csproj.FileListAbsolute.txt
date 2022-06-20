@@ -1,0 +1,27 @@
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.exe.config
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.exe
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.pdb
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csprojAssemblyReference.cache
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Manage.resources
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Properties.Resources.resources
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csproj.GenerateResource.cache
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.exe
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.pdb
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.EnterAccess.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.exe.config
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.exe
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\bin\Debug\FinalProjEden_and_Ofir.pdb
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csprojAssemblyReference.cache
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.EnterAccess.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Form1.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Form2.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Manage.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Properties.Resources.resources
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csproj.GenerateResource.cache
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.csproj.CoreCompileInputs.cache
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.exe
+C:\Users\אופיר\Downloads\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.pdb
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.About.resources
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.LogIn.resources
+C:\Users\משתמש\Desktop\אני P=\לימודים\רופין\לימודים\שנה ב'\סמסטר ב\תכנות מכוון עצמים ותכנות ויזואלי\פרויקטים שלי\FinalProjEden_and_Ofir\FinalProjEden_and_Ofir\obj\Debug\FinalProjEden_and_Ofir.Cashier.resources

@@ -1,0 +1,3 @@
+Name of seller :eden, sold :5
+Name of seller :ofir, sold :6
+Name of seller :moran, sold :8
